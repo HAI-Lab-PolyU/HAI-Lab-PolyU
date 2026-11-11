@@ -1,16 +1,15 @@
-## Hi there 👋
+# AI for Healthcare (AIH) Lab
 
-<!--
-**PolyU-AIH/PolyU-AIH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![AIH Lab](assets/logo.png)
 
-Here are some ideas to get you started:
+We are the **AI for Healthcare (AIH)** Lab at the Department of Data Science and Artificial Intelligence (DSAI), The Hong Kong Polytechnic University. Our research follows the human healthcare pipeline, building AI that supports clinicians across diagnosis, intervention, and care.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research directions
+
+- Multimodal clinical diagnosis
+- Surgical intervention and assistance (Surgery Copilot)
+- Medical foundation models
+
+## Contact
+
+- Email: polyuaih.lab@gmail.com
